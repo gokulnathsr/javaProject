@@ -17,6 +17,7 @@ public class PhoneInfo {
     	  System.out.println("osName:Color");
 	}
       public static void main(String[] args) {
+    	  System.out.println("Heyy this made by ram");
     	  PhoneInfo details = new PhoneInfo();
     	  details.phoneNumber();
     	  details.phoneMieiNum();
